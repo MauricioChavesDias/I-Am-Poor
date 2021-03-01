@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  I Am Poor
 //
-//  Created by Mauricio Dias on 17/2/21.
+//  Created by Mauricio Chaves Dias on 17/2/21.
 //
 
 import UIKit
